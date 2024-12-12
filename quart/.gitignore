@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment variables and secrets
+keys.py
+.env
+
+# Virtual environment
+gjams_env/
+ENV/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and debug
+*.log
+*.sqlite3
+
+# Pytest
+.pytest_cache/
+.cache/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp

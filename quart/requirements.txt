@@ -1,0 +1,9 @@
+quart
+shazamio
+quart_cors
+lyricsgenius
+aiomysql
+asyncio
+openai
+pydantic
+httpx
